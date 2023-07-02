@@ -61,4 +61,17 @@ section#redes-sociais img:hover {
     transition: transform 0.3s, border 1s;
 }
 
+section#botao {
+   position: relative;
+   top: 221px;
+   text-align: center;
+}
+
+section#botao img {
+    width: 44px;
+    border-radius: 50%;
+    filter:contrast(0%);
+    filter: grayscale(0%);
+}
+
 
